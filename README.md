@@ -4,10 +4,14 @@
 <h1 align="center">Hi 👋, I'm Klai Ahmed</h1>
 <h3 align="center">A passionate computer science student from Tunisia</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
----
-[![](https://visitcount.itsvg.in/api?id=Klai-Ahmed&icon=0&color=12)](https://visitcount.itsvg.in)
+
+
+
+
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
+
 # 💫 About Me:
 
 - 🌱 I’m currently learning **Spanish 🇪🇸**
