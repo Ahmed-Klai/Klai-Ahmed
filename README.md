@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Klai-Ahmed&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Klai-Ahmed&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
+### ✍️ Random Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
